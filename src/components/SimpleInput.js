@@ -26,7 +26,6 @@ const SimpleInput = (props) => {
         formIsValid = true;
     }
 
-
     const formSubmissionHandler = event => {
         event.preventDefault();
 
